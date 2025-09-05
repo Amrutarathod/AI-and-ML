@@ -51,7 +51,7 @@ How to Use:
 
 
 
-2. Voice-to-Text Data using NLP
+Voice-to-Text Data using NLP
 
 Description:
 Convert audio data into text and analyze it to extract insights using Speech Recognition and NLP techniques.
@@ -85,7 +85,7 @@ How to Use:
 
 
 
-3. Brain Tumor Detection using CNN
+ Brain Tumor Detection using CNN
 
 Description:
 Detect brain tumors from MRI images using a Convolutional Neural Network (CNN) model.
