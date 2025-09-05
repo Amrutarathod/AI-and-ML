@@ -15,7 +15,7 @@ This repository contains three projects demonstrating skills in Data Analytics, 
 
 
 
-1. WhatsApp Data Analytics using NLTK
+ WhatsApp Data Analytics using NLTK
 
 Description:
 Analyze WhatsApp chat data to extract insights like most active users, frequently used words, sentiment trends, and visualizations using Python.
